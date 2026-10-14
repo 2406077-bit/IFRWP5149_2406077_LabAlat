@@ -10,8 +10,8 @@
         <mxCell id="Q4paNwoZd32uqYlTkmQY-6" parent="Q4paNwoZd32uqYlTkmQY-1" style="ellipse;html=1;whiteSpace=wrap;" value="kelola jadwal kuliah" vertex="1">
           <mxGeometry height="70" width="110" x="100" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="Q4paNwoZd32uqYlTkmQY-12" parent="Q4paNwoZd32uqYlTkmQY-1" style="ellipse;html=1;whiteSpace=wrap;" value="Lihat jadwal kuliah" vertex="1">
-          <mxGeometry height="70" width="110" x="430" y="210" as="geometry" />
+        <mxCell id="Q4paNwoZd32uqYlTkmQY-15" parent="Q4paNwoZd32uqYlTkmQY-1" style="rounded=0;whiteSpace=wrap;html=1;" value="lihat jadwal" vertex="1">
+          <mxGeometry height="50" width="110" x="380" y="200" as="geometry" />
         </mxCell>
         <mxCell id="Q4paNwoZd32uqYlTkmQY-11" edge="1" parent="1" source="Q4paNwoZd32uqYlTkmQY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="Q4paNwoZd32uqYlTkmQY-6">
           <mxGeometry relative="1" as="geometry" />

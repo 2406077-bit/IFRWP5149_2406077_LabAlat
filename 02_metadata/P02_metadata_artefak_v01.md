@@ -1,4 +1,4 @@
-ID artefak        : LAB-P01-UC
+ID artefak        : LAB-P02-UC
 Judul             : Latihan notasi fungsi laboratorium
 Pertemuan         : 02
 Sumber skenario   : LAB-R01;LAB-R02
