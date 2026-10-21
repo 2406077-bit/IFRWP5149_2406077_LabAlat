@@ -1,2 +1,5 @@
 # Hi 👋, I'm Rio Cahya Ramadhan-2406077
-Pertemuan 3
+
+## Pertemuan 2: Unified Modelling Language (UML)
+
+## Pertemuan 3: Use Case Diagram dan Use Case Description
