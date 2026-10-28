@@ -213,9 +213,6 @@
                 <mxCell id="c40" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=3;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" value="Use case selesai jika nilai mahasiswa tersimpan; jika dosen tidak mempunyai mata kuliah yang diampu atau nilai di luar rentang yang sah, nilai tidak tersimpan." vertex="1">
                     <mxGeometry height="76" width="400" x="440" y="772" as="geometry"/>
                 </mxCell>
-                <mxCell id="c41" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontSize=12;" value="Keterangan tabel: use case ini direalisasikan oleh collaboration SIA-CO01 Input Nilai Mata Kuliah. Collaboration tersebut tidak mempunyai langkah kegiatan pada tabel ini. Nilai hanya dapat diinput oleh dosen pengampu mata kuliah tersebut." vertex="1">
-                    <mxGeometry height="60" width="800" x="40" y="858" as="geometry"/>
-                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
@@ -304,9 +301,6 @@
                 </mxCell>
                 <mxCell id="c28" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=3;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" value="Use case selesai jika KHS berisi nilai yang sudah dipublikasikan ditampilkan; jika belum ada nilai yang dipublikasikan, use case selesai dengan pesan tersebut." vertex="1">
                     <mxGeometry height="76" width="400" x="440" y="524" as="geometry"/>
-                </mxCell>
-                <mxCell id="c29" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontSize=12;" value="Keterangan tabel: use case ini direalisasikan oleh collaboration SIA-CO02 Lihat KHS. Collaboration tersebut tidak mempunyai langkah kegiatan pada tabel ini. KHS hanya menampilkan nilai yang sudah dipublikasikan." vertex="1">
-                    <mxGeometry height="44" width="800" x="40" y="610" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
@@ -421,9 +415,6 @@
                 <mxCell id="c36" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=3;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" value="Use case selesai jika perubahan data mahasiswa tersimpan; jika data tidak lengkap atau tidak sah, perubahan tidak tersimpan." vertex="1">
                     <mxGeometry height="60" width="400" x="440" y="716" as="geometry"/>
                 </mxCell>
-                <mxCell id="c37" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontSize=12;" value="Keterangan tabel: use case umum yang memuat perilaku bersama. Langkah bersama ini dirujuk oleh SIA-UC11 Tambah Data Mahasiswa, SIA-UC12 Ubah Data Mahasiswa, dan SIA-UC13 Hapus Data Mahasiswa (generalization use case)." vertex="1">
-                    <mxGeometry height="44" width="800" x="40" y="786" as="geometry"/>
-                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
@@ -524,9 +515,6 @@
                 </mxCell>
                 <mxCell id="c32" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=3;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" value="Use case selesai jika data mahasiswa baru tersimpan; jika data tidak lengkap, data tidak tersimpan." vertex="1">
                     <mxGeometry height="60" width="400" x="440" y="596" as="geometry"/>
-                </mxCell>
-                <mxCell id="c33" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontSize=12;" value="Keterangan: use case khusus dari SIA-UC10 Kelola Data Mahasiswa. Perilaku pembeda: data mahasiswa baru tersimpan. Langkah bersama mengikuti Tabel skenario SIA-UC10." vertex="1">
-                    <mxGeometry height="44" width="800" x="40" y="666" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
@@ -629,9 +617,6 @@
                 <mxCell id="c32" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=3;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" value="Use case selesai jika perubahan data mahasiswa tersimpan; jika data tidak ditemukan, perubahan tidak tersimpan." vertex="1">
                     <mxGeometry height="60" width="400" x="440" y="580" as="geometry"/>
                 </mxCell>
-                <mxCell id="c33" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontSize=12;" value="Keterangan: use case khusus dari SIA-UC10 Kelola Data Mahasiswa. Perilaku pembeda: data mahasiswa berubah. Langkah bersama mengikuti Tabel skenario SIA-UC10." vertex="1">
-                    <mxGeometry height="44" width="800" x="40" y="650" as="geometry"/>
-                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
@@ -720,9 +705,6 @@
                 </mxCell>
                 <mxCell id="c28" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=3;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" value="Use case selesai jika data mahasiswa terhapus; jika mahasiswa memiliki data akademik aktif, data tidak terhapus." vertex="1">
                     <mxGeometry height="60" width="400" x="440" y="556" as="geometry"/>
-                </mxCell>
-                <mxCell id="c29" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;fontSize=12;" value="Keterangan: use case khusus dari SIA-UC10 Kelola Data Mahasiswa. Perilaku pembeda: data mahasiswa terhapus, dengan syarat mahasiswa tidak memiliki data akademik aktif. Langkah bersama mengikuti Tabel skenario SIA-UC10." vertex="1">
-                    <mxGeometry height="44" width="800" x="40" y="626" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
